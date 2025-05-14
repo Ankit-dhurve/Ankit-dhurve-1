@@ -26,7 +26,7 @@
     ✅ High-quality, scalable, and well-documented code
     ✅ Collaborative problem-solving approach
     ✅ Sharing insights & knowledge with the dev community
-
+---
 # 💡 Let's Connect!
     If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
     📩 Email: dhurwe89@email.com
