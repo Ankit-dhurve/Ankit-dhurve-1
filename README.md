@@ -9,11 +9,12 @@
     🔹Database: MongoDB, 
     🔹Tools: GitHub Actions
     🔹Other: TypeScript, Redux, Context API, WebSockets
+---
 ### 🌟 What I Do
     🔹 Develop Scalable Applications – I specialize in building high-performance, full-stack web apps using the MERN stack.
     🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
     🔹 Optimized Coding Practices – I focus on clean code, performance optimization, and maintainability.
-
+---
 # 🚀 Projects & Contributions
 ## Check out some of my best work:
     🛍 E-commerce Platform – Full-stack e-commerce app with Stripe integration.
