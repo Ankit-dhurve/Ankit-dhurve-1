@@ -2,12 +2,13 @@
 
 #### 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
-🛠 Tech Stack & Skills
-Frontend: React.js, Next.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB, Firebase
-Tools & DevOps: Docker, GitHub Actions, CI/CD Pipelines
-Other: TypeScript, Redux, Context API, WebSockets
+## 🛠 Tech Stack & Skills
+
+🔹Frontend: React.js, Next.js, Tailwind CSS
+🔹Backend: Node.js, Express.js
+🔹Database: MongoDB, Firebase
+🔹Tools & DevOps: Docker, GitHub Actions, CI/CD Pipelines
+🔹Other: TypeScript, Redux, Context API, WebSockets
 🌟 What I Do
 🔹 Develop Scalable Applications – I specialize in building high-performance, full-stack web apps using the MERN stack.
 🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
