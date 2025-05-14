@@ -16,19 +16,19 @@
 
 # 🚀 Projects & Contributions
 ## Check out some of my best work:
-🛍 E-commerce Platform – Full-stack e-commerce app with Stripe integration.
-📝 Advanced To-Do App – A feature-rich task management app with drag-and-drop UI.
-📊 Admin Dashboard – MERN-based dashboard with role-based authentication.
-🔗 Explore My GitHub Projects
+    🛍 E-commerce Platform – Full-stack e-commerce app with Stripe integration.
+    📝 Advanced To-Do App – A feature-rich task management app with drag-and-drop UI.
+    📊 Admin Dashboard – MERN-based dashboard with role-based authentication.
+    🔗 Explore My GitHub Projects
 
-📌 What You Can Expect from Me
-✅ High-quality, scalable, and well-documented code
-✅ Collaborative problem-solving approach
-✅ Sharing insights & knowledge with the dev community
+# 📌 What You Can Expect from Me
+    ✅ High-quality, scalable, and well-documented code
+    ✅ Collaborative problem-solving approach
+    ✅ Sharing insights & knowledge with the dev community
 
-💡 Let's Connect!
-If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
-📩 Email: gourav2912@email.com
-🔗 LinkedIn: linkedin.com/in/yourprofile
+# 💡 Let's Connect!
+    If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
+    📩 Email: dhurwe89@email.com
+    🔗 https://www.linkedin.com/in/ankit-dhurve-68719633b/
 
-💬 Do let me know if I can help you in any way—my inbox is always open! 🚀
+# 💬 Do let me know if I can help you in any way—my inbox is always open! 🚀
