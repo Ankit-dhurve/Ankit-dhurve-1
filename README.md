@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ankit_dhurve – MERN Stack Developer
 
 #### 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
-
+---
 ## 🛠 Tech Stack & Skills
 
     🔹Frontend: React.js, Next.js,  CSS
@@ -21,7 +21,7 @@
     📝 Advanced To-Do App – A feature-rich task management app with drag-and-drop UI.
     📊 Admin Dashboard – MERN-based dashboard with role-based authentication.
     🔗 Explore My GitHub Projects
-
+---
 # 📌 What You Can Expect from Me
     ✅ High-quality, scalable, and well-documented code
     ✅ Collaborative problem-solving approach
