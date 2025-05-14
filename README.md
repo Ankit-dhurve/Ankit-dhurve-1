@@ -1,18 +1,18 @@
-# 👋 Hey, I'm Ankit dhurve – MERN Stack Developer
+# 👋 Hey, I'm Ankit_dhurve – MERN Stack Developer
 
 #### 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
 ## 🛠 Tech Stack & Skills
 
-🔹Frontend: React.js, Next.js, Tailwind CSS
-🔹Backend: Node.js, Express.js
-🔹Database: MongoDB, Firebase
-🔹Tools & DevOps: Docker, GitHub Actions, CI/CD Pipelines
-🔹Other: TypeScript, Redux, Context API, WebSockets
-🌟 What I Do
-🔹 Develop Scalable Applications – I specialize in building high-performance, full-stack web apps using the MERN stack.
-🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
-🔹 Optimized Coding Practices – I focus on clean code, performance optimization, and maintainability.
+    🔹Frontend: React.js, Next.js,  CSS
+    🔹Backend: Node.js, Express.js
+    🔹Database: MongoDB, 
+    🔹Tools: GitHub Actions
+    🔹Other: TypeScript, Redux, Context API, WebSockets
+### 🌟 What I Do
+    🔹 Develop Scalable Applications – I specialize in building high-performance, full-stack web apps using the MERN stack.
+    🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
+    🔹 Optimized Coding Practices – I focus on clean code, performance optimization, and maintainability.
 
 🚀 Projects & Contributions
 Check out some of my best work:
